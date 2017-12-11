@@ -1,5 +1,8 @@
 # The more onion Happy Paths to...
 
+* ...developing [JavaScript](./javascript.md)
+* ...developing [Vue](./vue.md)
+
 These "happy paths" are conventions and recommendation we commit ourselves to
 adhere when developing.
 
